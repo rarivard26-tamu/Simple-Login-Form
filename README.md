@@ -1,2 +1,2 @@
 # Simple-Login-Form
-Simple Test Form for application security
+This repository contains a simple webpage to test application security, based on preventing some vulnerabilities found in OWASP Juice Shop.
